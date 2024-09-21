@@ -81,5 +81,3 @@ Dieses Projekt ist unter der MIT-Lizenz lizenziert - siehe die [LICENSE.md](LICE
 <p align="center">
   Erstellt mit ❤️ von <a href="https://github.com/qttx-dev">qttx</a>
 </p>
-```
-
